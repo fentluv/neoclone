@@ -1,5 +1,5 @@
 # Neoclone !
-![ez](untitled.png)
+![ez](Untitled.png)
 Neoclone Is a windows alternative to neofetch since you cant get it on windows
 created by wk2poor 
 __________________
